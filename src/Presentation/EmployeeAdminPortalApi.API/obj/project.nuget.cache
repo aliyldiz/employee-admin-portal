@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mqmgxntM05Y=",
+  "success": true,
+  "projectFilePath": "/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Presentation/EmployeeAdminPortalApi.API/EmployeeAdminPortalApi.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/aliyildiz/.nuget/packages/microsoft.aspnetcore.openapi/10.0.1/microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "/Users/aliyildiz/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/Users/aliyildiz/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
