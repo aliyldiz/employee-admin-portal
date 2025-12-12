@@ -1,0 +1,12 @@
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/bin/Debug/net10.0/EmployeeAdminPortalApi.Application.deps.json
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/bin/Debug/net10.0/EmployeeAdminPortalApi.Application.dll
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/bin/Debug/net10.0/EmployeeAdminPortalApi.Application.pdb
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/obj/Debug/net10.0/EmployeeAdminPortalApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/obj/Debug/net10.0/EmployeeAdminPortalApi.Application.AssemblyInfoInputs.cache
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/obj/Debug/net10.0/EmployeeAdminPortalApi.Application.AssemblyInfo.cs
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/obj/Debug/net10.0/EmployeeAdminPortalApi.Application.csproj.CoreCompileInputs.cache
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/obj/Debug/net10.0/EmployeeAdminPortalApi.Application.sourcelink.json
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/obj/Debug/net10.0/EmployeeAdminPortalApi.Application.dll
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/obj/Debug/net10.0/refint/EmployeeAdminPortalApi.Application.dll
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/obj/Debug/net10.0/EmployeeAdminPortalApi.Application.pdb
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Application/obj/Debug/net10.0/ref/EmployeeAdminPortalApi.Application.dll

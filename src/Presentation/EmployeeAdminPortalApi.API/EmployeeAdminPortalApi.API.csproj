@@ -15,4 +15,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="10.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\EmployeeAdminPortalApi.Application\EmployeeAdminPortalApi.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\EmployeeAdminPortalApi.Persistence\EmployeeAdminPortalApi.Persistence.csproj" />
+  </ItemGroup>
+
 </Project>

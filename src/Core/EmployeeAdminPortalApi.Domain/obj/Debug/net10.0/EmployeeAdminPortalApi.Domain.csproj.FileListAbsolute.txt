@@ -1,0 +1,12 @@
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/bin/Debug/net10.0/EmployeeAdminPortalApi.Domain.deps.json
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/bin/Debug/net10.0/EmployeeAdminPortalApi.Domain.dll
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/bin/Debug/net10.0/EmployeeAdminPortalApi.Domain.pdb
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/obj/Debug/net10.0/EmployeeAdminPortalApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/obj/Debug/net10.0/EmployeeAdminPortalApi.Domain.AssemblyInfoInputs.cache
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/obj/Debug/net10.0/EmployeeAdminPortalApi.Domain.AssemblyInfo.cs
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/obj/Debug/net10.0/EmployeeAdminPortalApi.Domain.csproj.CoreCompileInputs.cache
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/obj/Debug/net10.0/EmployeeAdminPortalApi.Domain.sourcelink.json
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/obj/Debug/net10.0/EmployeeAdminPortalApi.Domain.dll
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/obj/Debug/net10.0/refint/EmployeeAdminPortalApi.Domain.dll
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/obj/Debug/net10.0/EmployeeAdminPortalApi.Domain.pdb
+/Users/aliyildiz/Documents/development/dotnetCore/employee-admin-portal/EmployeeAdminPortalApi/src/Core/EmployeeAdminPortalApi.Domain/obj/Debug/net10.0/ref/EmployeeAdminPortalApi.Domain.dll
