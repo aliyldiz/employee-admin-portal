@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmployeeAdminPortalApi.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a46dc6a5127c038bf225e50aa091359ef910eee4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb2a65a9ba8b2f42966bcbc29d2f95f03869d69c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmployeeAdminPortalApi.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmployeeAdminPortalApi.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace EmployeeAdminPortalApi.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20251212142036_Initial")]
+    [Migration("20251212151653_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -47,7 +47,7 @@ namespace EmployeeAdminPortalApi.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Emplooyes");
+                    b.ToTable("Employees");
                 });
 #pragma warning restore 612, 618
         }

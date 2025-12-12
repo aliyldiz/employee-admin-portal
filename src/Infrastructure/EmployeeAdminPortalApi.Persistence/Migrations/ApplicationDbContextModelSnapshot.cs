@@ -44,7 +44,7 @@ namespace EmployeeAdminPortalApi.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Emplooyes");
+                    b.ToTable("Employees");
                 });
 #pragma warning restore 612, 618
         }
